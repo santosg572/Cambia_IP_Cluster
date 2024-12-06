@@ -1,0 +1,30 @@
+172.24.220.87    evarts.inb.unam.mx      evarts              172.24.60.157       enp3s0    P2
+172.24.220.91    jasper.inb.unam.mx      jasper              172.24.80.70        xxx          38A
+172.24.220.94    claustrum.inb.unam.mx   claustrum           172.24.80.74        eno1      11A
+172.24.220.95    arwen.inb.unam.mx       arwen               172.24.80.77        eno1      25A
+172.24.220.96    charcot.inb.unam.mx     charcot             172.24.80.79        eno1      12B
+172.24.220.97    euler.inb.unam.mx       euler               172.24.80.81        eno1      25B
+172.24.220.98    geminis.inb.unam.mx     geminis             172.24.80.82        enp2s0    26B
+172.24.220.101   tournoux.inb.unam.mx    tournoux            172.24.80.90        enp2s0    27B
+172.24.220.102   moca.inb.unam.mx        moca                172.24.220.116      eno1      26A
+172.24.220.111   fourier.inb.unam.mx     fourier             172.24.80.97        eno1      04
+172.24.220.112   rabi.inb.unam.mx        rabi                172.24.80.98        enp3s0    05
+172.24.220.113   penfield.inb.unam.mx    penfield            172.24.80.99        enp3s0    02
+172.24.220.116   tesla.inb.unam.mx       tesla               172.24.80.102       eno2      03
+172.24.220.118   rhesus.inb.unam.mx      rhesus              172.24.80.105       enp3s0    13
+172.24.220.119   mansfield.inb.unam.mx   mansfield           172.24.80.106       enp3s0    08
+172.24.220.121   hahn.inb.unam.mx        hahn                172.24.80.109       enp4s0    6
+172.24.220.122   carr.inb.unam.mx        carr                172.24.80.110       enp3s0    24 o 25
+172.24.220.123   sherrington.inb.unam.mx sherrington         172.24.80.111       enp3s0    01
+172.24.220.124   damadian.inb.unam.mx    damadian            172.24.80.112       enp3s0    14
+172.24.220.125   ernst.inb.unam.mx       ernst               172.24.80.113       enp3s0    15
+172.24.220.126   nyquist.inb.unam.mx	 nyquist             172.24.80.114       enp4s0    24 o 25
+172.24.220.127   brown.inb.unam.mx	 brown               172.24.80.115       eno1      28
+172.24.220.128   larmor.inb.unam.mx	 larmor              172.24.80.117       enp3s0    11
+172.24.220.149   copula2.inb.unam.mx     copula2             172.24.100.49       eno1      33A
+172.24.220.153   giora.inb.unam.mx       giora               172.24.100.73       eno1      10
+172.24.220.154   austin.inb.unam.mx      austin              172.24.100.74       eno1      PTO 01
+172.24.220.155   tezca.inb.unam.mx       tezca               172.24.100.79       eno1      PTO 02
+172.24.220.166   ridelim.inb.unam.mx     ridelim             172.24.220.173      enp1s0
+172.24.220.141   milagros.inb.unam.mx    milagros            172.24.80.131       eno1      P31
+172.24.220.191   purcell.inb.unam.mx     purcell             172.24.140.42       enp3s0    21

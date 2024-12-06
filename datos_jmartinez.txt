@@ -1,0 +1,3 @@
+adaptador: enp0s25:
+addresses: 172.24.80.89/24
+gateway4: 172.24.80.94

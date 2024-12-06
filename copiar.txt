@@ -1,0 +1,5 @@
+ls /misc/tournoux2/santosg/linux_IP/Ips_Nuevas/
+sudo cp /misc/tournoux2/santosg/linux_IP/Ips_Nuevas/arwen* .
+
+
+
